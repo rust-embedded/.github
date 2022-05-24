@@ -27,4 +27,10 @@ What is it that we really want? At a broad level:
 - To make embedded systems programming more accessible for people that are not already embedded
   systems developers.
 
+## Where to go from here
 
+- [Curated list of awesome embedded Rust resources][aer]
+- [WG coordination repository][wg]
+
+[aer]: https://github.com/rust-embedded/awesome-embedded-rust
+[wg]: https://github.com/rust-embedded/wg
