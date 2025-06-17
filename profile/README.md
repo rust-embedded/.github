@@ -5,13 +5,14 @@ This organization focuses on improving the end-to-end experience of using Rust i
 We are an [official working group](https://www.rust-lang.org/governance/wgs/embedded) of the Rust language.
 
 **Want to get started with embedded development with Rust?** Check out our
-[embedded Rust book][book] and the rest of our [bookshelf].
+[embedded Rust book][book], the [new discovery book][discovery], and the rest of our [bookshelf].
 
 Want to stay up-to-date with community progress? Check out our [newsletter].
 
 Join the discussion on Matrix! [#rust-embedded:matrix.org](https://matrix.to/#/#rust-embedded:matrix.org)
 
 [book]: https://docs.rust-embedded.org/book
+[discovery]: https://docs.rust-embedded.org/discovery-mb2/
 [bookshelf]: https://docs.rust-embedded.org
 [newsletter]: https://rust-embedded.github.io/blog/
 
